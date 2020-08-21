@@ -9,6 +9,6 @@ import i18n from './lang/index'
 Vue.prototype._i18n = i18n
 const app = new Vue({
     i18n,
-		...App
+	...App
 })
 app.$mount()
