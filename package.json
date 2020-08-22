@@ -1,0 +1,13 @@
+{
+  "name": "nvue-i18n",
+  "version": "1.0.0",
+  "scripts": {
+    "lint": "eslint --ext .js,.vue,.nvue ./"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.1.0",
+    "eslint-plugin-vue": "^6.2.2",
+    "babel-eslint": "^10.1.0"
+  }
+}

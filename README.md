@@ -1,6 +1,6 @@
 # nvue-i18n
 
-## A solution for uni-app nvue i18n.
+## A solution for uni-app ".nvue"(".vue" is also supported) i18n.
 
 
 **Credits:**
